@@ -1,2 +1,2 @@
 # LivverFuzzing
- A simple software can do fuzzing .
+ A simple software can do fuzzing coded in Python3.
